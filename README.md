@@ -1,3 +1,16 @@
+<h1 align="center">Windows Server 2022 + Windows 11 Enterprise Environment</h1>
+
+<p align="center">
+  <b>Active Directory • Networking • Remote Administration • Troubleshooting</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_Server-2022-blue?style=for-the-badge&logo=windows">
+  <img src="https://img.shields.io/badge/Windows_11-Pro-blue?style=for-the-badge&logo=windows">
+  <img src="https://img.shields.io/badge/VirtualBox-Lab-orange?style=for-the-badge&logo=virtualbox">
+</p>
+
+---
 # Windows Server 2022 and Windows 11 Setup
 
 I built this setup in VirtualBox to get more hands-on experience with Windows administration, networking, Active Directory, and troubleshooting.
